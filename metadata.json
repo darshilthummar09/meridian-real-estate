@@ -1,0 +1,6 @@
+{
+  "name": "Emarat Luxury Real Estate",
+  "description": "A high-end architectural luxury real-estate website featuring a scroll-driven house construction video timelapse in the hero, curated residences, editorial showcases, and interactive property dossiers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
