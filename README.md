@@ -1,5 +1,10 @@
 # Meridian — Ultra-Luxury Real Estate & Architectural Living
 
+[![Live Demo](https://img.shields.io/badge/Live_Demo-darshilthummar09.github.io%2Fmeridian--real--estate-C5A059?style=for-the-badge&logo=githubpages&logoColor=0C0C0B)](https://darshilthummar09.github.io/meridian-real-estate/)
+[![GitHub Repo](https://img.shields.io/badge/GitHub-meridian--real--estate-181716?style=for-the-badge&logo=github&logoColor=F3F0EA)](https://github.com/darshilthummar09/meridian-real-estate)
+
+> 🔗 **Live Website**: [**https://darshilthummar09.github.io/meridian-real-estate/**](https://darshilthummar09.github.io/meridian-real-estate/)
+
 An ultra-luxury architectural portfolio and interactive residential atelier built with React 19, TypeScript, Tailwind CSS, Three.js, and Motion.
 
 ## ✨ Key Features
